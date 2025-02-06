@@ -1,6 +1,6 @@
 # ETH MedData Warehouse
+ETH MedData Warehouse is a data warehouse project that is designed to collect, store, and analyze medical data from various sources in Ethiopia. The project involves web scraping, data cleaning, transformation, and analysis, and also includes a FastAPI application for data visualization and visualization. The project also includes a FastAPI application for data visualization and visualization.
 
-Welcome to the ETH MedData Warehouse project! This project is designed to facilitate the collection, storage, and analysis of medical data from various sources in Ethiopia. The aim is to provide valuable insights and support decision-making in the healthcare sector.
 
 ## Project Structure
 
